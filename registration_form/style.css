@@ -1,0 +1,28 @@
+html{
+    background-color: #cce2cb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.twoblocks{
+    width: 800;
+    }
+
+.bigblockbehind{
+    background-color: #ef9d87;
+    width: 400px;
+    height: 640px;
+    padding: 25px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h2{
+    text-align: center;
+    color: #f5e7dd;
+    background-color: #527986;
+}
+
+form{
+    text-align: left;
+    color: #263a47;
+}
